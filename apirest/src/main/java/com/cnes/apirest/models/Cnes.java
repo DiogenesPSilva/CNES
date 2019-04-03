@@ -148,6 +148,12 @@ public class Cnes implements Serializable {
 	public void setNuTelefone(String nuTelefone) {
 		this.nuTelefone = nuTelefone;
 	}
-	
-	
+
+	@Override
+	public String toString() {
+		return "Cnes [cdCnes=" + cdCnes + ", cdIbge=" + cdIbge + ", nmFantasia=" + nmFantasia + ", dsTipoUnidade="
+				+ dsTipoUnidade + ", tpGestao=" + tpGestao + ", nmLogradouro=" + nmLogradouro + ", nuEndereco="
+				+ nuEndereco + ", nmBairro=" + nmBairro + ", cep=" + cep + ", uf=" + uf + ", municipio=" + municipio
+				+ ", nuTelefone=" + nuTelefone + "]";
+	}
 }
