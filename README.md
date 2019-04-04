@@ -61,4 +61,4 @@ Devido ao Heroku limitar a quantidade de registros na base de dados, existem ape
 [PostgreSQL]: <https://www.postgresql.org/>
 [PostMan]: <https://www.getpostman.com/>
 [Node]: <http://nodejs.org>
-[localhost:8081]: <localhost:8081>
+[localhost:8081]: <http://localhost:8081>
