@@ -51,7 +51,7 @@ Devido ao Heroku limitar a quantidade de registros na base de dados, existem ape
 - Executar a classe ApirestApplication.java;
 - Preencher a base com dados do arquivo.
 - Executar teste via navegador
-- Para testar utilizando o front-end do VueJs, é necessário ter o [Node] e o [VueJs] instalados (seguir os passos descritos no site das ferramentas)
+- Para testar utilizando o front-end do VueJs, é necessário ter o [Node] e o [VueJs] instalados (seguir os passos descritos no site das ferramentas), baixar e descompactar o arquivo cnes-appfront.7z, acessar o diretório extraído via prompt de comando e executar o comando npm run serve.
 - Por padrão, o Spring usa a porta 8080 para a aplicação local, então, o VueJs irá usar a porta 8081. Basta digitar no browser o endereço [localhost:8081] após iniciar o servidor node para acessar a aplicação VueJs. 
 
 [aplicação]: <https://app-desafiocnes.herokuapp.com/swagger-ui.html>
