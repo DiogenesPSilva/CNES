@@ -19,12 +19,12 @@ Ferramenta | Descrição
  ------ | ------
  Java 1.8 | Desenvolvimento
  Spring | Framework API REST 
- PostgreSQL | Banco de dados 
- PostMan/Swagger | Testar as requisições 
+ [PostgreSQL] | Banco de dados 
+ [PostMan]/Swagger | Testar as requisições 
  JUnit | Testes 
  Github | Versionamento 
  Swagger | Documentação de API 
- Heroku | Plataforma de aplicação 
+ [Heroku] | Plataforma de aplicação 
  [Vue JS] | Front-End
  
 ### Observação:
@@ -55,3 +55,6 @@ Devido ao Heroku limitar a quantidade de registros na base de dados, existem ape
 [aplicação]: <https://app-desafiocnes.herokuapp.com/swagger-ui.html>
 [Docker]: <https://www.docker.com/>
 [Vue JS]: <https://vuejs.org/>
+[Heroku]: <https://www.heroku.com/home>
+[PostgreSQL]: <https://www.postgresql.org/>
+[PostMan]: <https://www.getpostman.com/>
